@@ -20,6 +20,15 @@
         <p><a href="http://eepurl.com/cJLkmr">Signup for the newsletter here</a></p>
       </header>
       <section>
+        
+       <ul>
+        {% for post in site.posts %}
+          <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+            {{ post.excerpt }}
+          </li>
+        {% endfor %}
+      </ul>
 
       {{ content }}
 
