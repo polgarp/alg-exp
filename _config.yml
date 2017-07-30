@@ -1,7 +1,5 @@
 theme: jekyll-theme-minimal
 excerpt_separator: <!--more-->
-author:
-  twitter: polgarp
 gems:
   - jekyll-feed
   - jemoji
