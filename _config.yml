@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 excerpt_separator: <!--more-->
-paginate: 1
+paginate: 42
 gems:
   - jekyll-feed
   - jemoji
