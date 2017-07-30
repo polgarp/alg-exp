@@ -7,9 +7,7 @@ tags:
 - Research
 ---
 
-# {{ page.title }}
-
-{{tags}}
+## {{ page.title }}
 
 <https://machinelearning.apple.com/>
 
