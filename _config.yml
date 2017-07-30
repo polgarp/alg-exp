@@ -1,4 +1,8 @@
 theme: jekyll-theme-minimal
+title: Algorithmic Experiences
+description: Link repository for the Algorithmic Experiences Newsletter
+author:
+  twitter: polgarp
 excerpt_separator: <!--more-->
 paginate: 42
 gems:
