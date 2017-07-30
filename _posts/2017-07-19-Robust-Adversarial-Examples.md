@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Robust Adversarial Examples
-excerpt_separator: <!--more-->
+posturl: https://blog.openai.com/robust-adversarial-inputs/
 tags: 
 - Adversial
 - Research
@@ -9,12 +9,12 @@ tags:
 ---
 
 ## {{ page.title }}
-
-{{ page.date }} by polgarp, {{ page.tags }} 
-
-<https://blog.openai.com/robust-adversarial-inputs/>
+Posted on {{ page.date | date: "%Y %B %-d" }} by <a href="https://twitter.com/polgarp">polgarp</a>  
+Tagged in {{ page.tags | array_to_sentence_string }}  
+Original link: <{{page.posturl}}>  
 
 Fooling AI tech will be the hacking of the future - and it may be also part of individuals increased privacy. Such research will be more common as an algorithmic arms race will ensue, similarly to today's ad blocking apps.
+
 
 <!--more-->
 <a href="{{ site.baseurl }}">Back to home</a>
