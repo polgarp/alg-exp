@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Apple Machine Learning Journal
+excerpt_separator: ""
 tags: 
 - Apple
 - Machine Learning
