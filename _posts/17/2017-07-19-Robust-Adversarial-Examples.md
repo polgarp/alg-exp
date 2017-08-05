@@ -16,4 +16,4 @@ Fooling AI tech will be the hacking of the future - and it may be also part of i
 
 
 <!--more-->
-<a href="http://twitter.com/share?text={{page.title}}&url={{page.url}}&via=polgarp" target="_blank">Tweet this post</a> &#x25cf; <a href="{{ site.baseurl }}">Back to home</a>
+<a href="http://twitter.com/share?text={{page.title}}&url={{site.site_baseurl}}{{page.url}}&via=polgarp" target="_blank">Tweet this post</a> &#x25cf; <a href="{{ site.baseurl }}">Back to home</a>
