@@ -9,7 +9,7 @@ tags:
 ---
 
 ## {{ page.title }}
-Posted on {{ page.date | date: "%Y %B %-d" }} by <a href="https://twitter.com/polgarp">polgarp</a>  
+<span style="font-size: 0.5em">Posted on {{ page.date | date: "%Y %B %-d" }} by <a href="https://twitter.com/polgarp">polgarp</a></span>  
 Tagged in {{ page.tags | array_to_sentence_string }}  
 Original link: <{{page.posturl}}>  
 
