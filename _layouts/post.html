@@ -20,6 +20,11 @@
         <p><a href="http://eepurl.com/cJLkmr">Signup for the newsletter here</a></p>
       </header>
       <section>
+        <h1> {{ page.title }}</h1>
+        Posted on {{ page.date | date: "%Y %B %-d" }} by <a href="https://twitter.com/polgarp">polgarp</a>  <br>
+        Tagged in {{ page.tags | array_to_sentence_string }}  <br>
+        Original link: <{{page.posturl}}><br>
+        
         
      {{ content }}
 
