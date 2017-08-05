@@ -4,7 +4,7 @@ description: Link repository for the Algorithmic Experiences Newsletter
 author:
   twitter: polgarp
 excerpt_separator: <!--more-->
-site_baseurl: https://polgarp.github.io/alg-exp/
+site_baseurl: https://polgarp.github.io/alg-exp
 paginate: 42
 gems:
   - jekyll-feed
