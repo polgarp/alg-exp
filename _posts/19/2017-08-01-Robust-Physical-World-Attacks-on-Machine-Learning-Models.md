@@ -9,7 +9,7 @@ tags:
 ---
 
 ## {{ page.title }}
-<span style="font-size: 0.8em; line-height: 0.8em">Posted on {{ page.date | date: "%Y %B %-d" }} by <a href="https://twitter.com/polgarp">polgarp</a> &middot; Tagged in {{ page.tags | array_to_sentence_string }}</span>
+<span style="font-size: 0.8em; line-height: 0.8em">Posted on {{ page.date | date: "%Y %B %-d" }} by <a href="https://twitter.com/polgarp">polgarp</a> &middot; Tagged in {{ page.tags | array_to_sentence_string }}</span>  
 <span style="font-size: 0.8em; line-height: 0.8em">Original link: <{{page.posturl}}></span>
 
 It's interesting to see more and more research published on how to fool machine learning systems, vision based in particular. I can see designers on both sides, on one had as more and more ML tech is deployed to follow people without their informed consent there is a need for systems enabling users to hide. On the other hand systems designed should protect well-intentioned users from harm coming from attackers.
