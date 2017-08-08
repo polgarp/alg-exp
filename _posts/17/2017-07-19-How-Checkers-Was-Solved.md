@@ -13,4 +13,4 @@ tags:
 
 Now more of a piece of history how checkers was won by computers, still a fascinating story about the people on both sides.
 
-{% include post_info_footer.md %}
+<!--more-->{% include post_info_footer.md %}

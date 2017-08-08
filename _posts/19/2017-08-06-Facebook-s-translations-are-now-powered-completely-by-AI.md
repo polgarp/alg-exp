@@ -12,4 +12,4 @@ tags:
 
 Quite impressive, given Facebook's scale, and ofcourse they have access to a large dataset of human written language: posts, comments and chats. So this gives the chance to any two people to better understand each other, across languages and even subcultures. Some pretty neat possibilities to make communication between people easier.
 
-{% include post_info_footer.md %}
+<!--more-->{% include post_info_footer.md %}

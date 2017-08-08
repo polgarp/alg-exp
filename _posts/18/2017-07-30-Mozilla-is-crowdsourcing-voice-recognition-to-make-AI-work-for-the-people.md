@@ -12,4 +12,4 @@ tags:
 
 Using products built on open data is probably more important than using products built on open software, since as independent review makes it more apparent if a company works with dark patterns the same is true for working with biased data. This also enables to design products without a large supporting data collection mechanism.
 
-{% include post_info_footer.md %}
+<!--more-->{% include post_info_footer.md %}

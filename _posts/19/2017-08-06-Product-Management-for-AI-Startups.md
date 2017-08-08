@@ -12,4 +12,4 @@ tags:
 
 A little bit chaotic, but this is kinda ok overview on how to get started with AI products. There are plenty of things missing though - like for example how to get feedback on your implementation (ok this one is easy, just hire some UX people), or how to align your team and your stakeholders around a AI vision (seems harder than on traditional products), or how to know when your AI tech based product/feature just failed (pretty hard, since there can be many variables on learning speed, data hygiene etc).
 
-{% include post_info_footer.md %}
+<!--more-->{% include post_info_footer.md %}

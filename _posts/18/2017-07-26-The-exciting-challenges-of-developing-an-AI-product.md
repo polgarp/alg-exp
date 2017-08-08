@@ -12,4 +12,4 @@ tags:
 
 There are too few articles about the challenges of developing actual products with AI tech like this one.
 
-{% include post_info_footer.md %}
+<!--more-->{% include post_info_footer.md %}

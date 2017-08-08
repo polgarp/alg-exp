@@ -13,4 +13,4 @@ tags:
 
 A fascinating project on how humans and AI powered bots can co-create together. There are lots of interesting details on how the ML algorithms were trained, and how working together affected the creator's art style.
 
-{% include post_info_footer.md %}
+<!--more-->{% include post_info_footer.md %}

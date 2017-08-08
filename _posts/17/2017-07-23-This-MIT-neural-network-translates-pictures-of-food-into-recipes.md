@@ -12,4 +12,4 @@ tags:
 
 Nice project - with so many recipe sites with pictures on the internet there should be enough data to do this just right. Would be a useful product, but maybe less so than for example Shazam.
 
-{% include post_info_footer.md %}
+<!--more-->{% include post_info_footer.md %}

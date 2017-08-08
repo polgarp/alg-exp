@@ -12,4 +12,4 @@ tags:
 
 Interesting to compare the current research and development in AI tech to the space race and there are actually quite a lot of parallels.
 
-{% include post_info_footer.md %}
+<!--more-->{% include post_info_footer.md %}

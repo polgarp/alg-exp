@@ -12,4 +12,4 @@ tags:
 
 Many of the ethics issues present when working with AI tech is similar to the issues designers face when we create products. Although the design approach is implicitly humanistic, we still haven't figured out sure ways to follow specific ethical guidelines - something that doesn't bode well for products with AI tech. On the other hand ethical approaches are integrated into our methods, like design research - which enables us to have a headstart when working with AI tech.
 
-{% include post_info_footer.md %}
+<!--more-->{% include post_info_footer.md %}

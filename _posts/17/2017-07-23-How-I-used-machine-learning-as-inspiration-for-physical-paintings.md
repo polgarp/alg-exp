@@ -14,4 +14,4 @@ tags:
 
 Loved this description of a creative process. There are more and more examples emerging where a humans and algorithms support each others in creative processes. Wonder how effective this type of collaboration would be for a designed experience.
 
-{% include post_info_footer.md %}
+<!--more-->{% include post_info_footer.md %}

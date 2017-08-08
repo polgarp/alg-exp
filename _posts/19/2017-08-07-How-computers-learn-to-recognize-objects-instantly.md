@@ -12,4 +12,4 @@ tags:
 
 Pretty amazing results on real time object detection, also a fun to watch TED talk. Since Darknet/Yolo is free to use and it seems to work reliably on phones, this will be especially useful for applications in the AR space.
 
-{% include post_info_footer.md %}
+<!--more-->{% include post_info_footer.md %}

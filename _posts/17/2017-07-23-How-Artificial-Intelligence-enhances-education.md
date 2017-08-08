@@ -12,4 +12,4 @@ tags:
 
 Nice overview of AI applications in education. This is one of the fields that could benefit form AI tremendously, as it would would need huge amount of knowledge transfer (mostly methods between organisations) and human effort (more personalized teaching needs more teachers), while is low on capital, so automatization would be beneficial. However the long term impact on the students would be huge, so careful design is called for.
 
-{% include post_info_footer.md %}
+<!--more-->{% include post_info_footer.md %}

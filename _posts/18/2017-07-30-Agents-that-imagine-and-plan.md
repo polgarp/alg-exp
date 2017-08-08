@@ -13,4 +13,4 @@ tags:
 
 
 
-{% include post_info_footer.md %}
+<!--more-->{% include post_info_footer.md %}

@@ -11,4 +11,4 @@ tags:
 
 Cover story on HBR, it's more of an other general introduction to the current batch of AI tech, but there are actually a few tasty details.
 
-{% include post_info_footer.md %}
+<!--more-->{% include post_info_footer.md %}

@@ -12,4 +12,4 @@ tags:
 
 AI tech as a new type of material to design with is an interesting idea: just as with other types like software, you have to understand how things work. But even to software, the workings are different, and might be even counter-intuitive to experienced designers. The challenges listed in this article also show that there is plenty of work left in defining new types of interactions when working with "AI material".
 
-{% include post_info_footer.md %}
+<!--more-->{% include post_info_footer.md %}

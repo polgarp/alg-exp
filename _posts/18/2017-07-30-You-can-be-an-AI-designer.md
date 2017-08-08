@@ -13,4 +13,4 @@ tags:
 
 As far as different categories of AI tech from narrow to superintelligence, there are difference skills we will need to actually design these products and systems. Even AGI feels like sci-fi at the moment, but all the experience in design we will gather from working with narrow intelligence products should serve well.
 
-{% include post_info_footer.md %}
+<!--more-->{% include post_info_footer.md %}

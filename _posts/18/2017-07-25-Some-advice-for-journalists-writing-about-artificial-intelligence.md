@@ -12,4 +12,4 @@ tags:
 
 Not just for journalists, really for anybody getting into this field. Since there is a lot of discussion going on what a general AI could be, most people loose sight on what is actually realistic right now.
 
-{% include post_info_footer.md %}
+<!--more-->{% include post_info_footer.md %}

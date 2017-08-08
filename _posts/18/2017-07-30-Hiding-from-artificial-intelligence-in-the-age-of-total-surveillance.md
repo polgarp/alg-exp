@@ -12,4 +12,4 @@ tags:
 
 Interesting read, not just because of the Russian angle. Hiding from facial recognition is hard online, and getting harder in real life too. But also might be more and more interesting to more and more people, as keeping privacy, and staying anonymous for ad targeting and "experience personalization" will get more important. I wonder if this will have a real fashion impact in the future.
 
-{% include post_info_footer.md %}
+<!--more-->{% include post_info_footer.md %}
