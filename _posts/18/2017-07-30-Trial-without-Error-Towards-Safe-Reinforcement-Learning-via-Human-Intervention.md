@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trial without Error: Towards Safe Reinforcement Learning via Human Intervention
+title: Trial without Error - Towards Safe Reinforcement Learning via Human Intervention
 posturl: https://arxiv.org/abs/1707.05173
 tags:
 - Research
