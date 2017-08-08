@@ -9,7 +9,7 @@ tags:
 - Project
 ---
 
-<h2><a href={{page.posturl}}>{{ page.title }}</a></h2>
+<a href={{page.posturl}}><h2>{{ page.title }}</h2></a>
 <span style="font-size: 0.8em; line-height: 0.8em">Posted on {{ page.date | date: "%Y %B %-d" }} by <a href="https://twitter.com/polgarp">polgarp</a> &middot; Tagged in {{ page.tags | array_to_sentence_string }}</span>  
 <span style="font-size: 0.8em; line-height: 0.8em">Original link: <{{page.posturl}}></span>
 
