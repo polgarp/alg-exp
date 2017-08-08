@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Intelligence on tap - AI as a new design material
+title: "Intelligence on tap: AI as a new design material"
 posturl: http://interactions.acm.org/archive/view/july-august-2017/intelligence-on-tap#new_tab
 tags:
 - Design
