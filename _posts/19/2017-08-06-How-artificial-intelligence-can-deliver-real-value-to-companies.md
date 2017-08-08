@@ -7,9 +7,9 @@ tags:
 - Report
 ---
 
-## {{ page.title }}
-<span style="font-size: 0.8em; line-height: 0.8em">Posted on {{ page.date | date: "%Y %B %-d" }} by <a href="https://twitter.com/polgarp">polgarp</a> &middot; Tagged in {{ page.tags | array_to_sentence_string }}</span>  
-<span style="font-size: 0.8em; line-height: 0.8em">Original link: <{{page.posturl}}></span>
+## [{{ page.title }}]({{page.posturl}})
+<small>Posted on {{ page.date | date: "%Y %B %-d" }} by <a href="https://twitter.com/polgarp">polgarp</a> &middot; Tagged in {{ page.tags | array_to_sentence_string }}</small>  
+<small>Original link: <{{page.posturl}}></small>
 
 The included report available to download is more interesting. So early adopter companies push hard into AI tech, while those who don't risk to be left back. There is definitely a place for most industries to improve their user experience, not just on the "traditional" user facing channels (I guess a huge opportunity for enterprise focused startups).
 

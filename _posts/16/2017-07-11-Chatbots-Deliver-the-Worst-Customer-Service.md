@@ -7,9 +7,9 @@ tags:
 - Principles
 ---
 
-## {{ page.title }}
-<span style="font-size: 0.8em; line-height: 0.8em">Posted on {{ page.date | date: "%Y %B %-d" }} by <a href="https://twitter.com/polgarp">polgarp</a> &middot; Tagged in {{ page.tags | array_to_sentence_string }}</span>  
-<span style="font-size: 0.8em; line-height: 0.8em">Original link: <{{page.posturl}}></span>
+## [{{ page.title }}]({{page.posturl}})
+<small>Posted on {{ page.date | date: "%Y %B %-d" }} by <a href="https://twitter.com/polgarp">polgarp</a> &middot; Tagged in {{ page.tags | array_to_sentence_string }}</small>  
+<small>Original link: <{{page.posturl}}></small>
 
 This article hits the right pain points with chat bots on many levels. Pre scripted bots are vastly different to real assistants like Siri, just way more limited. But the costs are also much lower. They seem to be still useful for specific contexts, so you need to research and design properly, just like with any other channel.
 
