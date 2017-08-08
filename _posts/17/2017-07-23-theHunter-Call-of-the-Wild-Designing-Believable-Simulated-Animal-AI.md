@@ -1,6 +1,6 @@
 ---
 layout: post
-title: theHunter Call of the Wild – Designing Believable, Simulated Animal AI
+title: "theHunter: Call of the Wild – Designing Believable, Simulated Animal AI"
 posturl: http://www.karineskoog.com/thehunter-call-of-the-wild-designing-believable-simulated-animal-ai/
 tags:
 - Video game
