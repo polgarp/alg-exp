@@ -10,8 +10,8 @@ tags:
 ---
 
 ## [{{ page.title }}]({{page.posturl}})
-<span style="font-size: 0.8em; line-height: 0.8em">Posted on {{ page.date | date: "%Y %B %-d" }} by <a href="https://twitter.com/polgarp">polgarp</a> &middot; Tagged in {{ page.tags | array_to_sentence_string }}</span>  
-<span style="font-size: 0.8em; line-height: 0.8em">Original link: <{{page.posturl}}></span>
+<small>Posted on {{ page.date | date: "%Y %B %-d" }} by <a href="https://twitter.com/polgarp">polgarp</a> &middot; Tagged in {{ page.tags | array_to_sentence_string }}</small>  
+<small">Original link: <{{page.posturl}}></small>
 
 A fascinating project on how humans and AI powered bots can co-create together. There are lots of interesting details on how the ML algorithms were trained, and how working together affected the creator's art style.
 
