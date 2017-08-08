@@ -9,9 +9,7 @@ tags:
 - Project
 ---
 
-## [{{ page.title }}]({{page.posturl}})
-<small>Posted on {{ page.date | date: "%Y %B %-d" }} by <a href="https://twitter.com/polgarp">polgarp</a> &middot; Tagged in {{ page.tags | array_to_sentence_string }}</small>  
-<small>Original link: <{{page.posturl}}></small>
+{% include post_info_header.md %}
 
 A fascinating project on how humans and AI powered bots can co-create together. There are lots of interesting details on how the ML algorithms were trained, and how working together affected the creator's art style.
 
