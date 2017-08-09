@@ -12,4 +12,4 @@ tags:
 
 I'm not sure if women's are better off in the design community than the tech - especially if they work as designers in a tech company. While it seems one of the most important factor of designing for AI tech is how we handle data bias, just following guidelines is probably not enough. Organisation are only capable to produce software that mirrors them, so design teams have to consist of equal ratio of men and women.
 
-{% include post_info_footer.md %}
+<!--more-->{% include post_info_footer.md %}

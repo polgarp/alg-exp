@@ -12,4 +12,4 @@ tags:
 
 Interesting perspective, however I like the idea of having to train the product instead of merely build. If anything this just means there needs to be more understanding on the users (or even more generally the people) to create successful products, so yay for UX people.
 
-{% include post_info_footer.md %}
+<!--more-->{% include post_info_footer.md %}

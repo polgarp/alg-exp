@@ -12,4 +12,4 @@ tags:
 
 This would be another result, where AI tech helps non-professionals achieve professional results. In photography in particular this feels as big change as the appearance of digital photography, it brings a new way of creating photos to people. So how will this affect how we remember things?
 
-{% include post_info_footer.md %}
+<!--more-->{% include post_info_footer.md %}

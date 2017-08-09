@@ -11,4 +11,4 @@ tags:
 
 Even if this is not case, it could be. Just shows how common, basic graphic design will become mostly the domain of AI users, rather then design operators.
 
-{% include post_info_footer.md %}
+<!--more-->{% include post_info_footer.md %}

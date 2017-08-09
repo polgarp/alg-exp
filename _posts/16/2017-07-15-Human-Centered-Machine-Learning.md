@@ -13,4 +13,4 @@ tags:
 
 While the title feels a bit philosophical, this article from googlers contains some quite practical advice and even a few concrete methods for UXers on how to design machine learning products. It's also cool how Google internally trains UXers on how to work with these technologies.
 
-{% include post_info_footer.md %}
+<!--more-->{% include post_info_footer.md %}
