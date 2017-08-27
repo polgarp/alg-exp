@@ -4,7 +4,7 @@
 
 ---
 layout: post
-title:
+title: ""
 posturl:
 tags:
 -
