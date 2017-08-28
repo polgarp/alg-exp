@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Artificial Intelligence and the Rise of Economic Inequality"
