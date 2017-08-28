@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "An Open Letter to the United Nations Convention on Certain Conventional Weapons"
