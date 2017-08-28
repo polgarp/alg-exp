@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Exploring and Visualizing an Open Global Dataset"
