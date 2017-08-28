@@ -9,6 +9,6 @@ tags:
 
 {% include post_info_header.md %}
 
-Lots of nice product ideas in this article by the Medical Futurist, with the simple premise of how AI tech could make a doctor better. Most of the ideas are quite simple (like better agenda sheduling) but in reality they are probably pretty complicated design tasks - not to mention there may be differences in how a doctor actually works compared to other knowledge workers. What makes this article super interesting, how simpy compelling use cases can be formualted.
+Lots of nice product ideas in this article by the Medical Futurist, with the simple premise of how AI tech could make a doctor better. Most of the ideas are quite simple (like better agenda scheduling) but in reality they are probably pretty complicated design tasks - not to mention there may be differences in how a doctor actually works compared to other knowledge workers. What makes this article super interesting, how simple compelling use cases can be formualted.
 
 <!--more-->{% include post_info_footer.md %}
