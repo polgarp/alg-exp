@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "This new AI-composed pop song sounds like something from a Spotify playlist"
