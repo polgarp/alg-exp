@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Google, Mozilla, And The Race To Make Voice Data For Everyone"
-posturl: https://www.fastcompany.com/40449278/google-mozilla-and-the-race-to-make-voice-data-for-everyone?utm_source=feedly&utm_medium=webfeeds
+posturl: https://www.fastcompany.com/40449278/google-mozilla-and-the-race-to-make-voice-data-for-everyone
 tags:
 - Mozilla
 - Google
