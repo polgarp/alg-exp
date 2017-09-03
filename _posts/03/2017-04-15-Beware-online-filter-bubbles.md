@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Beware online "filter bubbles""
+title: "Beware online filter bubbles"
 posturl: https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles
 tags:
 - Ethics
