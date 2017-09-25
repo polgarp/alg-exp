@@ -6,7 +6,7 @@ tags:
 - Emotional design
 - Emotional intelligence
 - Emotions
-- Emapthy
+- Empathy
 ---
 
 {% include post_info_header.md %}
