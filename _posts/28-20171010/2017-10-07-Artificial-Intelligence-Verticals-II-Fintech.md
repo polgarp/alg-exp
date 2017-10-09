@@ -9,7 +9,7 @@ tags:
 
 {% include post_info_header.md %}
 
-Nice overview on where fintech stands with the adoption of AI tech with also an rationale of how these technologies are introduced.
+Nice overview on where fintech stands with the adoption of AI tech with also a rationale of how these technologies are introduced. Very useful if you are looking to get started with a fintech product.
 
 <!--more-->
 {% include post_info_footer.md %}
