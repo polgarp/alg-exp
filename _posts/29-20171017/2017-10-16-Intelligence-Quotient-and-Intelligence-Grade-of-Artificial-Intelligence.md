@@ -9,7 +9,7 @@ tags:
 
 {% include post_info_header.md %}
 
-Grading the IQ of AI systems seems like an interesting experiment, especially to compare the "performance" of different company. Not sure though if the relation to human intelligence means anything, increasing machine intelligence doesn't seem like a linear process. Also highly intelligent systems might appear dumb to a casual observer.
+Grading the IQ of AI systems seems like an interesting experiment, especially to compare the "performance" of different company. Not sure though if the relation to human intelligence means anything, increasing machine intelligence doesn't seem like a linear process. Also highly intelligent systems might appear dumb to a casual observer, as it may lack emotional value, really depends on the design.
 
 <!--more-->
 {% include post_info_footer.md %}
