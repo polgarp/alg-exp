@@ -9,7 +9,7 @@ tags:
 
 {% include post_info_header.md %}
 
-Even if it sounds a little bit like a made up marketing world, I like the expression "coaching clod". It well summarizes how AI tech can be deployed in a human-centric way, by enabling and supporting people to get better at what they do over time. This is something we do any way when we analyze case studies and industry reports, and well defined methods can use scale to improve even nuanced details.
+Even if it sounds a little bit like a made up marketing world, I like the expression "coaching cloud". It well summarizes how AI tech can be deployed in a human-centric way, by enabling and supporting people to get better at what they do over time. This is something we do any way when we analyze case studies and industry reports, and well defined methods can use scale to improve even nuanced details.
 
 <!--more-->
 {% include post_info_footer.md %}
