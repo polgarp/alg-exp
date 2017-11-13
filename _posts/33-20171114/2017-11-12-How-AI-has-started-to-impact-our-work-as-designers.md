@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How AI has started to impact our work as"
+title: "How AI has started to impact our work as designers"
 posturl: https://uxdesign.cc/how-ai-will-impact-your-routine-as-a-designer-2773a4b1728c
 tags:
 - Overview
