@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MAD magazine exclusive: "The Future of Job Automation""
+title: "MAD magazine exclusive: The Future of Job Automation"
 posturl: https://boingboing.net/2018/02/08/mad-magazine-exclusive-the.html
 tags:
 - Fun
