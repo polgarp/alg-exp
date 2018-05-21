@@ -6,11 +6,12 @@ tags:
 - AI development
 - Product development
 - Guide
+- Google
 ---
 
 {% include post_info_header.md %}
 
-While this guide is more focused on the engineering part, it's actually an excellent guide for anyone working with AI products. 
+While this guide is more focused on the engineering part, it's actually an excellent guide for anyone working with AI products.
 
 <!--more-->
 {% include post_info_footer.md %}
