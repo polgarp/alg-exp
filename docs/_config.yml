@@ -3,7 +3,7 @@ title: Algorithmic Experiences
 description: Link repository for the Algorithmic Experiences Newsletter
 author: polgarp
 excerpt_separator: <!--more-->
-site_baseurl: https://polgarp.github.io/alg-exp
+site_baseurl: https://polgarp.github.io/alg-exp/docs
 paginate: 42
 gems:
   - jekyll-feed
